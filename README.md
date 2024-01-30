@@ -1,3 +1,5 @@
 # -
-本科毕设记录
-用于记录本科毕业论文，完成的主题是Adversrial attacks in Person Re-Identification
+配置环境：Python3.7、 ananconda3
+此次运行的数据集为：Market-1501-v15.09.15
+运行代码来源:https://github.com/SongBaiHust/Adversarial_Metric_Attack
+
