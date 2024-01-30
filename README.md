@@ -1,10 +1,10 @@
-# abc
-配置环境：Python3.7、 ananconda3 pycharm
-此次运行的数据集为：Market-1501-v15.09.15
-网络为：resnext
-运行代码来源:https://github.com/SongBaiHust/Adversarial_Metric_Attack
 
-运行顺序：prepare.py（需要更改文件路径 downloadpath和savepath）     model.py   resnext.py  Gen_Adv。py
+#配置环境：Python3.7、 ananconda3 pycharm
+#此次运行的数据集为：Market-1501-v15.09.15
+#网络为：resnext
+#运行代码来源:https://github.com/SongBaiHust/Adversarial_Metric_Attack
+
+#运行顺序：prepare.py（需要更改文件路径 downloadpath和savepath）     model.py   resnext.py  Gen_Adv。py
 (后面的evaluate.py暂时还没有改，需要前面都代码出结果才能运行看）
 
 
